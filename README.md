@@ -1,5 +1,5 @@
 # Đồ họa máy tính - Computer Graphic
-# Paint
+# Ứng dụng Paint cho Desktop
 ## Install environments
 **Công cụ (Tool):**<br>
 * Visual Studio
