@@ -2,7 +2,9 @@
 # Ứng dụng Trang trí nội thất (furniture) cho Desktop
 ## Install environments
 **Công cụ (Tool):**<br>
-* Visual Studio
+* Unity
+* UnityHub
+* WebGL
 
 **Ngôn ngữ (Language):**<br>
-* C
+* C#
