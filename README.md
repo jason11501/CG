@@ -5,4 +5,4 @@
 * Visual Studio
 
 **Ngôn ngữ (Language):**<br>
-* C#
+* C
